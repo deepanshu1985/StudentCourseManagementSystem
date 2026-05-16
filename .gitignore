@@ -25,3 +25,5 @@ out/
 
 # checklist file
 checklist.txt
+
+package-lock.json
