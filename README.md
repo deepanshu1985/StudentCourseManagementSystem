@@ -6,7 +6,17 @@ Student Course Management System is a Java-based console application designed to
 
 This project is being developed step by step using proper software engineering practices including requirement analysis, design, implementation, testing, documentation, deployment, and future AI integration.
 
+
+## Documentation
+
+Detailed Documentation is inside this `docs` folder
+## Documents
+
 ## Current Version
+- [Requirement Analysis](docs/requirement-analysis.md)
+- [Use Case Diagram](docs/use-case-diagram.md)
+- [Class Diagram](docs/class-diagram.md)
+- [Testing Documentation](docs/testing-documentation.md)
 
 Version 1: Console-based Java OOP application
 
