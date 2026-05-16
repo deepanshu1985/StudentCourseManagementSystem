@@ -1,0 +1,26 @@
+# compiled java files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Vscode files
+.vscode/
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# Build folders
+target/
+build/
+out/
+
+
+# checklist file
